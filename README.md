@@ -1,66 +1,33 @@
-# Rahul Tarachand
-**Machine Learning & AI Engineer**  
-Explainable • Agentic • Production-Ready AI Systems
+# Hi there, I'm Rahul Tarachand! 👋
 
----
+I am an **AI Engineer** and **Full Stack Developer** specializing in building intelligent systems that combine **Agentic Workflows**, **Financial Analysis**, and **Scalable Web Architecture**.
 
-## 📌 Overview
-| |
-|---|
-| Computer Science undergraduate at IIIT Sri City (CGPA: 8.69). I build AI systems focused on reliability, interpretability, and real-world deployment rather than isolated models. |
+- 🔭 I’m currently working on **Enterprise Document Intelligence (Agentic RAG)**.
+- 🚀 I recently built a **StoreAdmin Catalog Inventory Portal** using TypeScript.
+- 📈 I analyze financial markets using **Sentiment & Behavior Analysis (Hyperliquid)**.
+- 💡 I'm interested in **Agentic AI, LLMs, and XAI (Explainable AI).**
 
----
+### 🚀 Featured Projects
 
-## 🧠 Core Focus
-| Machine Learning | Explainable AI | Agentic AI |
-|------------------|---------------|------------|
-| End-to-end ML pipelines | LIME, interpretable ensembles | Multi-agent workflows |
-| NLP & Document AI | Trust & transparency | Automation systems |
-| Computer Vision | Healthcare ML | Enterprise use-cases |
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[enterprise-doc-intelligence](https://github.com/rah-9/enterprise-doc-intelligence)** | 🐍 Python, RAG, Agents | Agentic RAG with Self-Evaluation & Hybrid Intelligence reliability for mission-critical docs. |
+| **[StoreAdmin-Portal](https://github.com/rah-9/StoreAdmin-Catalog-Inventory-Portal)** | 📘 TypeScript, React | A full-stack inventory management portal for catalog administration. |
+| **[Financial.AI.Agent](https://github.com/rah-9/Financial.AI.Agent)** | 🤖 Python, AI Agents | Autonomous agents designed for financial market analysis and decision support. |
+| **[Hyperliquid-Analysis](https://github.com/rah-9/Hyperliquid-Sentiment-Behavior-PnL-Analysis)** | 📊 Python, Data Science | Behavioral PnL analysis and sentiment tracking for Hyperliquid markets. |
 
----
+### 🛠️ Tech Stack
 
-## 🛠 Tech Stack
-| Category | Tools |
-|-------|------|
-| **Languages** | Python, Java, C, JavaScript, TypeScript, SQL |
-| **ML / AI** | Scikit-learn, TensorFlow, PyTorch, OpenCV, NumPy, Pandas |
-| **Web / APIs** | React, Node.js, FastAPI, Flask, Django, Streamlit |
-| **Infra** | Docker, GitHub Actions, AWS, Linux |
-| **Databases** | MySQL, MongoDB |
-
----
-
-## 🚀 Featured Projects
-| Project | Description |
-|-------|------------|
-| **Explainable AI – Disease Risk** | 87.4% accurate healthcare ML system using stacked models + LIME |
-| **Invoice Processing AI Agents** | Multi-agent system for invoices, emails, JSON (FastAPI + Streamlit) |
-| **Enterprise Doc Intelligence** | Agentic RAG with self-evaluation and reliability focus |
-| **StoreAdmin Inventory Portal** | Modern TypeScript dashboard for inventory analytics |
-| **Vehicle Detection ML** | Classical CV-based object detection pipeline |
-
----
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rah-9&theme=github-dark&hide_border=true" width="48%"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rah-9&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
-</p>
+### 📊 GitHub Stats
 
----
-
-## 🔗 Connect
-| |
-|---|
-| **Email:** rahul.r22@iiits.in |
-| **GitHub:** https://github.com/rah-9 |
-| **LinkedIn:** add-your-link-here |
-
----
-
-**Clean systems. Explainable decisions. Real impact.**
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical)
