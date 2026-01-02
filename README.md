@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
 </p>
 
 <details>
