@@ -13,10 +13,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub Stats" />
 </p>
 
-### ⚡ Recent Activity
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rah-9&theme=radical" alt="Rahul's Activity Graph" />
-</p>
+<details>
+  <summary><b>📊 Click to view GitHub Stats</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
+  </p>
+</details>
 
 ### 📬 Connect with me
 
