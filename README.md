@@ -7,14 +7,26 @@ I am an **AI Engineer** and **Full Stack Developer** specializing in building in
 - 📈 I analyze financial markets using **Sentiment & Behavior Analysis (Hyperliquid)**.
 - 💡 I'm interested in **Agentic AI, LLMs, and XAI (Explainable AI).**
 
-### 🚀 Featured Projects
+---
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[enterprise-doc-intelligence](https://github.com/rah-9/enterprise-doc-intelligence)** | 🐍 Python, RAG, Agents | Agentic RAG with Self-Evaluation & Hybrid Intelligence reliability for mission-critical docs. |
-| **[StoreAdmin-Portal](https://github.com/rah-9/StoreAdmin-Catalog-Inventory-Portal)** | 📘 TypeScript, React | A full-stack inventory management portal for catalog administration. |
-| **[Financial.AI.Agent](https://github.com/rah-9/Financial.AI.Agent)** | 🤖 Python, AI Agents | Autonomous agents designed for financial market analysis and decision support. |
-| **[Hyperliquid-Analysis](https://github.com/rah-9/Hyperliquid-Sentiment-Behavior-PnL-Analysis)** | 📊 Python, Data Science | Behavioral PnL analysis and sentiment tracking for Hyperliquid markets. |
+### 📬 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/tarachand-rahul-701a25291/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rah-9">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:rahul.r22@iiits.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/Rahul91204">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ### 🛠️ Tech Stack
 
