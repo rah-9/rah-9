@@ -1,17 +1,20 @@
 ### Hi there, I'm Rahul! 👋
 
-- 🔭 **Full-Stack Development** using TypeScript, React, Node.js, and modern web architectures.
+- 🧠 **Machine Learning & XAI** specializing in Explainable AI, RAG pipelines, and Predictive Modeling.
 - ⚙️ **Backend & AI Systems** with Python, FastAPI, LangChain, and Agentic Workflows.
 - 📊 **Financial AI Agents** for market sentiment analysis, PnL tracking, and algorithmic trading insights.
-- 🧠 **Machine Learning & XAI** specializing in Explainable AI, RAG pipelines, and Predictive Modeling.
 - 🚀 **Project Leadership** through building scalable tools like StoreAdmin Portals and Enterprise Document Intelligence.
+- - 🔭 **Full-Stack Development** using TypeScript, React, Node.js, and modern web architectures.
 
 <br>
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
-</p>
+<details>
+  <summary><b>Click to view 🏆 Achievements</b></summary>
+  <br>
+  <p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=rah-9&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Rahul's Trophies" />
+  </p>
+</details>
 
 <details>
   <summary><b>📊 Click to view GitHub Stats</b></summary>
@@ -52,6 +55,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical)
