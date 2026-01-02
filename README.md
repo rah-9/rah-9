@@ -1,13 +1,22 @@
-# Hi there, I'm Rahul Tarachand! 👋
+### Hi there, I'm Rahul! 👋
 
-I am an **AI Engineer** and **Full Stack Developer** specializing in building intelligent systems that combine **Agentic Workflows**, **Financial Analysis**, and **Scalable Web Architecture**.
+- 🔭 **Full-Stack Development** using TypeScript, React, Node.js, and modern web architectures.
+- ⚙️ **Backend & AI Systems** with Python, FastAPI, LangChain, and Agentic Workflows.
+- 📊 **Financial AI Agents** for market sentiment analysis, PnL tracking, and algorithmic trading insights.
+- 🧠 **Machine Learning & XAI** specializing in Explainable AI, RAG pipelines, and Predictive Modeling.
+- 🚀 **Project Leadership** through building scalable tools like StoreAdmin Portals and Enterprise Document Intelligence.
 
-- 🔭 I’m currently working on **Enterprise Document Intelligence (Agentic RAG)**.
-- 🚀 I recently built a **StoreAdmin Catalog Inventory Portal** using TypeScript.
-- 📈 I analyze financial markets using **Sentiment & Behavior Analysis (Hyperliquid)**.
-- 💡 I'm interested in **Agentic AI, LLMs, and XAI (Explainable AI).**
+<br>
 
----
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=radical&count_private=true" alt="Rahul's GitHub Stats" />
+</p>
+
+### ⚡ Recent Activity
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rah-9&theme=radical" alt="Rahul's Activity Graph" />
+</p>
 
 ### 📬 Connect with me
 
