@@ -1,10 +1,10 @@
-### Hi there, I'm Rahul! 👋
+### Hi there, I'm Tarachand Rahul! 👋
 
 - 🧠 **Machine Learning & XAI** specializing in Explainable AI, RAG pipelines, and Predictive Modeling.
 - ⚙️ **Backend & AI Systems** with Python, FastAPI, LangChain, and Agentic Workflows.
 - 📊 **Financial AI Agents** for market sentiment analysis, PnL tracking, and algorithmic trading insights.
 - 🚀 **Project Leadership** through building scalable tools like StoreAdmin Portals and Enterprise Document Intelligence.
-- - 🔭 **Full-Stack Development** using TypeScript, React, Node.js, and modern web architectures.
+- 🔭 **Full-Stack Development** using TypeScript, React, Node.js, and modern web architectures.
 
 <br>
 
