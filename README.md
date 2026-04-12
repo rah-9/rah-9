@@ -9,7 +9,7 @@
 <br>
 
 <details>
-  <summary><b>Click to view 🏆 Achievements</b></summary>
+  <summary><b>🏆 Click to view Achievements</b></summary>
   <br>
   <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=rah-9&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Rahul's Trophies" />
@@ -27,6 +27,9 @@
 ### 📬 Connect with me
 
 <p align="left">
+  <a href="https://portfolio-rahul-10.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/tarachand-rahul-701a25291/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -54,5 +57,3 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
-
-
