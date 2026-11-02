@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="https://portfolio-rahul-10.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0a1f44?style=for-the-badge&logo=vercel&logoColor=f2c14e" /></a>
-<a href="https://www.linkedin.com/in/tarachand-rahul-701a25291/"><img src="https://img.shields.io/badge/LinkedIn-0a1f44?style=for-the-badge&logo=linkedin&logoColor=f2c14e" /></a>
-<a href="mailto:rahul.dev.xai@gmail.com"><img src="https://img.shields.io/badge/Email-0a1f44?style=for-the-badge&logo=gmail&logoColor=f2c14e" /></a>
-<a href="https://x.com/Rahul91204"><img src="https://img.shields.io/badge/X-0a1f44?style=for-the-badge&logo=x&logoColor=f2c14e" /></a>
-<img src="https://komarev.com/ghpvc/?username=rah-9&label=Profile+views&color=f2c14e&labelColor=0a1f44&style=for-the-badge" />
+<a href="https://portfolio-rahul-10.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b2a5b?style=for-the-badge&logo=vercel&logoColor=9ed0ff" /></a>
+<a href="https://www.linkedin.com/in/tarachand-rahul-701a25291/"><img src="https://img.shields.io/badge/LinkedIn-0b2a5b?style=for-the-badge&logo=linkedin&logoColor=9ed0ff" /></a>
+<a href="mailto:rahul.dev.xai@gmail.com"><img src="https://img.shields.io/badge/Email-0b2a5b?style=for-the-badge&logo=gmail&logoColor=9ed0ff" /></a>
+<a href="https://x.com/Rahul91204"><img src="https://img.shields.io/badge/X-0b2a5b?style=for-the-badge&logo=x&logoColor=9ed0ff" /></a>
+<img src="https://komarev.com/ghpvc/?username=rah-9&label=Profile+views&color=2a6fd1&labelColor=0b2a5b&style=for-the-badge" />
 
 </div>
 
@@ -43,19 +43,21 @@ class Rahul:
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,postgres,sqlite&perline=9" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy,docker,gcp,azure,githubactions,linux&perline=9" />
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,docker,gcp,azure,githubactions,linux,git&perline=8" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/LangChain-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/LangGraph-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/FAISS-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/Ollama-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/Transformers-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/Faster--Whisper-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/spaCy-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/XGBoost-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
-<img src="https://img.shields.io/badge/SHAP-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
+<img src="https://img.shields.io/badge/LangChain-1e4fa8?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1e4fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FAISS-1e4fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ollama-1e4fa8?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-1e4fa8?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Faster--Whisper-1e4fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/spaCy-1e4fa8?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-1e4fa8?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-1e4fa8?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-1e4fa8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHAP-1e4fa8?style=for-the-badge" />
 
 </div>
 
@@ -65,12 +67,12 @@ class Rahul:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&hide_border=true&count_private=true&bg_color=0a1f44&title_color=f2c14e&icon_color=f2c14e&text_color=e8eefc" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rah-9&layout=compact&hide_border=true&langs_count=8&bg_color=0a1f44&title_color=f2c14e&text_color=e8eefc" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rah-9&theme=github_blue_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rah-9&theme=github_blue_dark" />
 
-<img src="https://streak-stats.demolab.com?user=rah-9&hide_border=true&background=0a1f44&ring=f2c14e&fire=f2c14e&currStreakLabel=f2c14e&sideLabels=e8eefc&currStreakNum=ffffff&sideNums=ffffff&dates=b8c7e6" />
+<img src="https://streak-stats.demolab.com?user=rah-9&hide_border=true&background=0b2a5b&ring=7ec0ff&fire=7ec0ff&currStreakLabel=9ed0ff&sideLabels=e8eefc&currStreakNum=ffffff&sideNums=ffffff&dates=b8c7e6" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rah-9&bg_color=0a1f44&color=e8eefc&line=f2c14e&point=ffffff&area_color=f2c14e&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/2a6fd1/rah-9" width="90%" alt="Contribution chart" />
 
 <br/><br/>
 

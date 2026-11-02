@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08183a"/><stop offset="1" stop-color="#1b4a8a"/></linearGradient>
-<linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#e8b53c"/><stop offset="1" stop-color="#ffe3a0"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071a3a"/><stop offset="1" stop-color="#2a6fd1"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#7ec0ff"/><stop offset="1" stop-color="#e3f1ff"/></linearGradient>
 <radialGradient id="gl" cx=".5" cy=".42" r=".6"><stop offset="0" stop-color="#4f8de0" stop-opacity=".38"/><stop offset="1" stop-color="#4f8de0" stop-opacity="0"/></radialGradient>
 <clipPath id="c"><rect width="1200" height="350" rx="18"/></clipPath>
 </defs>
 <style>
 .l{stroke:#9cc2ff;stroke-width:1;opacity:.1;animation:lp 5s ease-in-out infinite}
-.n{fill:#ffe3a0;animation:np 4s ease-in-out infinite}
+.n{fill:#e3f1ff;animation:np 4s ease-in-out infinite}
 @keyframes lp{0%,100%{opacity:.06}50%{opacity:.4}}@keyframes np{0%,100%{opacity:.2}50%{opacity:.9}}
-.rl{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:17px;font-weight:600;letter-spacing:7px;fill:#f2c14e}
+.rl{font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:17px;font-weight:600;letter-spacing:7px;fill:#9ed0ff}
 .nm{font-family:Georgia,'Times New Roman',serif;font-size:78px;font-weight:700;fill:#fff;letter-spacing:3px}
 .tg{font-family:Georgia,'Times New Roman',serif;font-style:italic;font-size:24px;fill:#d6e4ff;opacity:0;animation:sh 16s linear infinite}
 @keyframes sh{0%{opacity:0;transform:translateY(8px)}3%,22%{opacity:1;transform:translateY(0)}25%,100%{opacity:0}}
@@ -21,7 +21,7 @@
 <rect width="1200" height="6" fill="url(#gold)"/>
 <text x="600" y="100" text-anchor="middle" class="rl">AI ENGINEER  |  SOFTWARE ENGINEER</text>
 <text x="600" y="196" text-anchor="middle" class="nm">Tarachand Rahul</text>
-<line class="ul" x1="440" y1="222" x2="760" y2="222" stroke="#f2c14e" stroke-width="3" stroke-linecap="round"/>
+<line class="ul" x1="440" y1="222" x2="760" y2="222" stroke="#9ed0ff" stroke-width="3" stroke-linecap="round"/>
 <text x="600" y="268" text-anchor="middle" class="tg" style="animation-delay:0s">AI agents and LLM applications</text><text x="600" y="268" text-anchor="middle" class="tg" style="animation-delay:4s">Retrieval, speech and vision systems</text><text x="600" y="268" text-anchor="middle" class="tg" style="animation-delay:8s">Reliable backends, shipped to production</text><text x="600" y="268" text-anchor="middle" class="tg" style="animation-delay:12s">Containers and CI/CD on GCP and Azure</text>
 <text x="600" y="320" text-anchor="middle" style="font-family:'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;letter-spacing:3px;fill:#8fb0e6">AI ENGINEER @ ENCRAFT AI</text>
-</g><rect x="1" y="1" width="1198" height="348" rx="17" fill="none" stroke="#f2c14e" stroke-opacity=".45"/></svg>
+</g><rect x="1" y="1" width="1198" height="348" rx="17" fill="none" stroke="#9ed0ff" stroke-opacity=".45"/></svg>
