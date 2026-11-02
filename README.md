@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Tarachand Rahul, AI Engineer and Software Engineer" width="100%" />
+<img src="assets/banner.svg" alt="Tarachand Rahul, AI Engineer and Software Engineer" width="100%" />
 
 <br/>
 
