@@ -8,57 +8,45 @@
 <a href="https://www.linkedin.com/in/tarachand-rahul-701a25291/"><img src="https://img.shields.io/badge/LinkedIn-0a1f44?style=for-the-badge&logo=linkedin&logoColor=f2c14e" /></a>
 <a href="mailto:rahul.dev.xai@gmail.com"><img src="https://img.shields.io/badge/Email-0a1f44?style=for-the-badge&logo=gmail&logoColor=f2c14e" /></a>
 <a href="https://x.com/Rahul91204"><img src="https://img.shields.io/badge/X-0a1f44?style=for-the-badge&logo=x&logoColor=f2c14e" /></a>
+<img src="https://komarev.com/ghpvc/?username=rah-9&label=Profile+views&color=f2c14e&labelColor=0a1f44&style=for-the-badge" />
 
 </div>
 
 <br/>
 
-## About
+## About me
 
-I am an **AI Engineer** and a **Software Engineer**. I design intelligent systems and I build the software around them: the models and retrieval on one side, the APIs, data layer and deployment on the other.
+I am **Tarachand Rahul**, an **AI Engineer** and **Software Engineer**. I build AI systems and the software that carries them into production: the models and retrieval on one side, the APIs, data layer and deployment on the other.
 
-I currently work as an AI Engineer Intern at **Encraft AI**, building AI workflows for client products. I hold a B.Tech in Computer Science from IIIT Sri City.
+At **Encraft AI** I build client-facing AI workflows that run video, image, document and structured data through LLMs and vision-language models, and I ship them on GCP and Azure.
+
+```python
+class Rahul:
+    roles      = ["AI Engineer", "Software Engineer"]
+    currently  = "AI Engineer @ Encraft AI"
+    ai         = ["LLM agents", "RAG", "Speech and vision pipelines", "Explainable AI"]
+    software   = ["Python", "FastAPI", "PostgreSQL", "React", "TypeScript", "Node.js"]
+    deploys_on = ["Docker", "GitHub Actions", "GCP", "Azure"]
+    open_to    = "AI Engineer and Software Engineer roles"
+```
 
 <br/>
 
-## What I can do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI Engineering
-
-- Build **LLM agents and workflows** with tool calling, structured outputs and safe fallbacks
-- Design **retrieval systems** (RAG) with embeddings and vector search
-- Turn **speech, video, images and documents** into structured data with multimodal models
-- **Evaluate** model output for quality, latency, cost and failure cases
-- Apply **machine learning** to classification and anomaly detection, with explainability
-
-</td>
-<td width="50%" valign="top">
-
-### Software Engineering
-
-- Build **async REST APIs** and backend services
-- Design **databases** and data models, with authentication and role-based access
-- Build **web interfaces** with React, TypeScript and Next.js
-- **Containerise and deploy** services with CI/CD on GCP and Azure
-- **Debug and monitor** live systems, tracing failures back to the root cause
-
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="assets/expertise.svg" alt="What I do: AI Engineering and Software Engineering" width="100%" />
+</div>
 
 <br/>
 
 ## Technologies
 
-**Languages and web**<br/>
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css" />
+<div align="center">
 
-**AI and data**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy" /><br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,postgres,sqlite&perline=9" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,pandas,numpy,docker,gcp,azure,githubactions,linux&perline=9" />
+
+<br/><br/>
+
 <img src="https://img.shields.io/badge/LangChain-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
 <img src="https://img.shields.io/badge/LangGraph-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
 <img src="https://img.shields.io/badge/FAISS-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
@@ -69,8 +57,7 @@ I currently work as an AI Engineer Intern at **Encraft AI**, building AI workflo
 <img src="https://img.shields.io/badge/XGBoost-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
 <img src="https://img.shields.io/badge/SHAP-0a1f44?style=flat-square&labelColor=0a1f44&color=f2c14e" />
 
-**Backend and infrastructure**<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite,docker,gcp,azure,githubactions,linux,git" />
+</div>
 
 <br/>
 
@@ -85,12 +72,8 @@ I currently work as an AI Engineer Intern at **Encraft AI**, building AI workflo
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rah-9&bg_color=0a1f44&color=e8eefc&line=f2c14e&point=ffffff&area_color=f2c14e&area=true&hide_border=true" width="100%" />
 
+<br/><br/>
+
+<a href="mailto:rahul.dev.xai@gmail.com"><img src="assets/footer.svg" alt="Open to AI Engineer and Software Engineer roles" width="100%" /></a>
+
 </div>
-
-<br/>
-
-## Open to work
-
-Looking for roles in **AI Engineering** and **Software Engineering**. If you are building with LLMs or need a reliable backend behind one, write to me at **rahul.dev.xai@gmail.com**.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f44,100:1e4b8f&height=110&section=footer" />
