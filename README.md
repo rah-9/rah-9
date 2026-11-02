@@ -1,59 +1,56 @@
-### Hi there, I'm Tarachand Rahul! 👋
+<div align="center">
 
-- 🧠 **Machine Learning & XAI** specializing in Explainable AI, RAG pipelines, and Predictive Modeling.
-- ⚙️ **Backend & AI Systems** with Python, FastAPI, LangChain, and Agentic Workflows.
-- 📊 **Financial AI Agents** for market sentiment analysis, PnL tracking, and algorithmic trading insights.
-- 🚀 **Project Leadership** through building scalable tools like StoreAdmin Portals and Enterprise Document Intelligence.
-- 🔭 **Full-Stack Development** using TypeScript, React, Node.js, and modern web architectures.
+<img src="assets/hero.svg" alt="Tarachand Rahul, AI Engineer and AI Software Developer" width="100%" />
 
-<br>
+<br/>
 
-<details>
-  <summary><b>🏆 Click to view Achievements</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=rah-9&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Rahul's Trophies" />
-  </p>
-</details>
+<a href="https://portfolio-rahul-10.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1428?style=for-the-badge&logo=vercel&logoColor=22d3ee" /></a>
+<a href="https://www.linkedin.com/in/tarachand-rahul-701a25291/"><img src="https://img.shields.io/badge/LinkedIn-0d1428?style=for-the-badge&logo=linkedin&logoColor=60a5fa" /></a>
+<a href="mailto:rahul.dev.xai@gmail.com"><img src="https://img.shields.io/badge/Email-0d1428?style=for-the-badge&logo=gmail&logoColor=f472b6" /></a>
+<a href="https://x.com/Rahul91204"><img src="https://img.shields.io/badge/X-0d1428?style=for-the-badge&logo=x&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=rah-9&label=Profile+views&color=4f46e5&style=for-the-badge" />
 
-<details>
-  <summary><b>📊 Click to view GitHub Stats</b></summary>
-  <br>
-  <p align="left">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rah-9&theme=radical" alt="Rahul's Activity Graph" />
-  </p>
-</details>
+</div>
 
-### 📬 Connect with me
+<br/>
 
-<p align="left">
-  <a href="https://portfolio-rahul-10.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/tarachand-rahul-701a25291/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rah-9">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:rahul.r22@iiits.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/Rahul91204">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<img src="assets/terminal.svg" alt="About me" width="100%" />
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## What I work on
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+<div align="center">
+<img src="assets/focus.svg" alt="Focus areas" width="100%" />
+</div>
+
+<br/>
+
+## Tools I use
+
+<div align="center">
+<img src="assets/stack.svg" alt="Tech stack" width="100%" />
+</div>
+
+<br/>
+
+## GitHub activity
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=rah-9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1428&count_private=true" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rah-9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1428&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=rah-9&theme=tokyonight&hide_border=true&background=0d1428" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rah-9&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<a href="mailto:rahul.dev.xai@gmail.com"><img src="assets/connect.svg" alt="Let's build something intelligent" width="100%" /></a>
+</div>
